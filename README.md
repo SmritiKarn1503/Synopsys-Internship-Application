@@ -14,7 +14,7 @@ Relevant Skills and Experiences:
 
 --> Digital Design & Computer Architecture: Created a Traffic Light Controller using a Moore FSM (October 2024–November 2024), incorporating timing logic and synthesizing it on Xilinx Vivado. My ALU project further demonstrated expertise in modular design for arithmetic and logical operations, reinforcing my understanding of computer architecture principles.
 
---> Linux: Proficient in Linux environments, using shell scripting and EDA tools like Xilinx Vivado, Questasim, and Cadence Virtuoso for design, simulation, and synthesis during my PG Diploma projects.
+--> Linux: Proficient in Linux environments, using EDA tools like Xilinx Vivado, Questasim, and Cadence Virtuoso for design, simulation, and synthesis during my PG Diploma projects.
 
 --> Additional Tools: Experienced with Cadence Virtuoso, Magic, Yosys, LTSpice, NGSpice, and MATLAB, enhancing my ability to handle diverse VLSI workflows.
 
